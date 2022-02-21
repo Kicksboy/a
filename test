@@ -1,4 +1,1 @@
-return(function(pr) 
-print(pr)
-
-end)
+return 'hello'
